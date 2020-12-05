@@ -1,0 +1,11 @@
+Acceso
+
+Username: configuroweb
+Password: 1234abcd..
+
+
+Debes crear una bd con el nombre fantastic_school_admin_db 
+
+He importarla de mi blog
+
+https://www.configuroweb.com/
